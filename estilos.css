@@ -1,0 +1,15 @@
+.content {
+    height: 100%;
+}
+
+footer {
+    background: #14820A;
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 50px;
+}  
+.verde_degradado{
+	background: linear-gradient(to left, #669900 60%, #003300 100%);
+}
