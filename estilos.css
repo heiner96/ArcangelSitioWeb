@@ -3,13 +3,23 @@
 }
 
 footer {
-    background: #14820A;
+    background: #007bff;
     position: fixed;
     left: 0;
     right: 0;
     bottom: 0;
     height: 50px;
-}  
-.verde_degradado{
-	background: linear-gradient(to left, #669900 60%, #003300 100%);
+}
+.imagenLogo
+{
+	max-width: 200px;
+	max-height: 200px;
+}
+nav{
+	background-color: #007bff;
+}
+.textoBlanco{
+	font-size: 1rem;
+	background-color:  #007bff;
+  	color: white!important;
 }
